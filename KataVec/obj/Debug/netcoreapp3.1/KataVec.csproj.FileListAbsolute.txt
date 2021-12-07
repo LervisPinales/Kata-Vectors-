@@ -1,0 +1,9 @@
+C:\Users\lervi\source\repos\KataVec\KataVec\bin\Debug\netcoreapp3.1\KataVec.deps.json
+C:\Users\lervi\source\repos\KataVec\KataVec\bin\Debug\netcoreapp3.1\KataVec.dll
+C:\Users\lervi\source\repos\KataVec\KataVec\bin\Debug\netcoreapp3.1\KataVec.pdb
+C:\Users\lervi\source\repos\KataVec\KataVec\obj\Debug\netcoreapp3.1\KataVec.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lervi\source\repos\KataVec\KataVec\obj\Debug\netcoreapp3.1\KataVec.AssemblyInfoInputs.cache
+C:\Users\lervi\source\repos\KataVec\KataVec\obj\Debug\netcoreapp3.1\KataVec.AssemblyInfo.cs
+C:\Users\lervi\source\repos\KataVec\KataVec\obj\Debug\netcoreapp3.1\KataVec.csproj.CoreCompileInputs.cache
+C:\Users\lervi\source\repos\KataVec\KataVec\obj\Debug\netcoreapp3.1\KataVec.dll
+C:\Users\lervi\source\repos\KataVec\KataVec\obj\Debug\netcoreapp3.1\KataVec.pdb
